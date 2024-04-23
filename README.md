@@ -1,5 +1,7 @@
 ### Hi there 👋, Andrew
 #### Web Design and Development
+![Web Design and Development](https://github.com/SudoSantos/SudoSantos/blob/main/programming-background-with-person-working-with-codes-computer.jpg)
+
 I'm Andrew, a Junior Web Developer from Nigeria. Passionate about crafting captivating digital experiences, diving into the world of web development with curiosity and special interest in functional programming logic. I thrive on the journey of continuous learning and growth. Let's build something remarkable together! 💻✨
 
 Skills: PHP / REACT / JS / HTML / CSS
