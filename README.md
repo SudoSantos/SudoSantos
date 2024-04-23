@@ -6,9 +6,11 @@ A Junior Web Developer from Nigeria. Passionate about crafting captivating digit
 
 ## Skills and Experience: PHP / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Private projects and practices 
-- 📫 How to reach me: 08062464648 Whatsapp 
-- 😄 Pronouns: he, him 
+- 🔭 I’m currently working on Private projects and practice
+- 🌱 I’m currently learning in Microverse HTML, CSS, JS, REACT etc
+- 📫 How to reach me: tonydrewnumber11@gmail.com 
+- 😄 Pronouns: he, him
+- ✨ Hobbies: Playing football and Video games
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sudosantos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.link/i0iuwo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](twentycodm@outlook.com)  
