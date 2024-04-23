@@ -1,10 +1,10 @@
-### Hi there 👋, Andrew
-#### Web Design and Development
 ![Web Design and Development](https://github.com/SudoSantos/SudoSantos/blob/main/coding.jpg)
 
-I'm Andrew, a Junior Web Developer from Nigeria. Passionate about crafting captivating digital experiences, diving into the world of web development with curiosity and special interest in functional programming logic. I thrive on the journey of continuous learning and growth. Let's build something remarkable together! 💻✨
+# Hi there 👋, I'm Andrew
 
-Skills: PHP / REACT / JS / HTML / CSS
+A Junior Web Developer from Nigeria. Passionate about crafting captivating digital experiences, diving into the world of web development with curiosity and special interest in functional programming logic. I thrive on the journey of continuous learning and growth. Let's build something remarkable together! 💻✨
+
+## Skills and Experience: PHP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Private projects and practices 
 - 📫 How to reach me: 08062464648 Whatsapp 
