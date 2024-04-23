@@ -1,4 +1,4 @@
-![Web Design and Development](https://github.com/SudoSantos/SudoSantos/blob/main/coding.jpg)
+![Web Design and Development](https://github.com/SudoSantos/SudoSantos/blob/main/codingsmall.jpg)
 
 # Hi there 👋, I'm Andrew
 
